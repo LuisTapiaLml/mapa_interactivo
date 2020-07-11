@@ -1,0 +1,66 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+
+body,html{
+    width: 100%;
+    padding: 0;
+    height: 100%;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    color: #444;
+}
+
+.mapa{
+    width: 440px;
+    margin: 0 auto;
+}
+
+svg{
+    width: 100%;
+    position: relative;
+}
+
+#posiciones{
+    position: relative;
+   
+}
+
+.remarcar_posicion {
+    cursor: pointer;
+    fill: red;
+    background-color: blue;
+}
+
+.remarcar_posicion >  * {
+    transition: all .1s ease-in-out;
+    fill: rgb(107, 107, 107);
+}
+
+.remarcar_posicion >  text {
+    fill: rgb(0, 0, 0);
+}
+
+.tooltip{
+    display: block;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+    z-index: 10;
+    position: fixed;
+}
+
+.tooltip p{
+    margin: 0;
+    padding: 0;
+}
+
+.tooltip p b{
+    font-weight: bolder;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 595.28 841.89" enable-background="new 0 0 595.28 841.89" xml:space="preserve">
+<g id="piso_5">
+	<rect id="piso_5_1_" y="0" fill="#312783" stroke="#000000" stroke-miterlimit="10" width="595.28" height="841.89"/>
+</g>
+<g id="posiciones">
+	<g id="1_">
+		<rect x="21.52" y="45.71" fill="#F9B233" stroke="#000000" stroke-miterlimit="10" width="39.45" height="109.11"/>
+		<rect x="37.25" y="92.64" fill="none" width="7.97" height="15.24"/>
+		<text transform="matrix(0.8107 0 0 1 37.2549 104.9424)" font-family="'MyriadPro-Regular'" font-size="17.3244px">1</text>
+	</g>
+	<g id="2_">
+		<rect x="60.96" y="45.71" fill="#F9B233" stroke="#000000" stroke-miterlimit="10" width="39.45" height="109.11"/>
+		<rect x="76.7" y="92.64" fill="none" width="7.97" height="15.24"/>
+		<text transform="matrix(0.8107 0 0 1 76.7007 104.9424)" font-family="'MyriadPro-Regular'" font-size="17.3244px">2</text>
+	</g>
+	<g id="3_">
+		<rect x="100.41" y="45.71" fill="#F9B233" stroke="#000000" stroke-miterlimit="10" width="39.45" height="109.11"/>
+		<rect x="116.15" y="92.64" fill="none" width="7.97" height="15.24"/>
+		<text transform="matrix(0.8107 0 0 1 116.1465 104.9424)" font-family="'MyriadPro-Regular'" font-size="17.3244px">3</text>
+	</g>
+	<g id="oficina">
+		<ellipse id="oficina_1_" fill="#F39200" cx="267.16" cy="508.67" rx="147.03" ry="181.35"/>
+		<text id="nombre" transform="matrix(0.6441 0 0 1 198.6696 532.3847)" font-family="'MyriadPro-Regular'" font-size="67.7382px">Oficina</text>
+	</g>
+</g>
+</svg>
